@@ -3,13 +3,13 @@
   "version": "0.0.0-development",
   "private": false,
   "description": "",
-  "homepage": "https://github.com/jonbri/libby-ui#readme",
+  "homepage": "https://github.com/polyrepo-fam/libby-ui#readme",
   "bugs": {
-    "url": "https://github.com/jonbri/libby-ui/issues"
+    "url": "https://github.com/polyrepo-fam/libby-ui/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonbri/libby-ui.git"
+    "url": "https://github.com/polyrepo-fam/libby-ui.git"
   },
   "license": "ISC",
   "author": "",
