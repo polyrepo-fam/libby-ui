@@ -1,5 +1,5 @@
 import { createElement } from 'react';
-import { TOKEN_COLOR, TOKEN_SIZE, TOKEN_WEIGHT } from '@jonbri/token';
+import { TOKEN_COLOR, TOKEN_SIZE, TOKEN_WEIGHT } from '@polyrepo-fam/token';
 
 export interface HeadingProps {
   level?: number;
