@@ -1,5 +1,5 @@
 {
-  "name": "@jonbri/libby-ui",
+  "name": "@polyrepo-fam/libby-ui",
   "version": "0.0.0-development",
   "private": false,
   "description": "",
@@ -32,7 +32,7 @@
     "lint": "yarn format:check && yarn eslint",
     "semantic-release": "semantic-release",
     "start": "start-storybook -p 6006",
-    "update": "yarn upgrade @jonbri/token"
+    "update": "yarn upgrade @polyrepo-fam/token"
   },
   "release": {
     "branches": [
@@ -45,7 +45,7 @@
     "@babel/plugin-transform-runtime": "^7.19.1",
     "@commitlint/cli": "^17.4.4",
     "@commitlint/config-conventional": "^17.4.4",
-    "@jonbri/token": "*",
+    "@polyrepo-fam/token": "*",
     "@rollup/plugin-commonjs": "^24.0.1",
     "@rollup/plugin-node-resolve": "^15.0.1",
     "@rollup/plugin-typescript": "8.3.4",
