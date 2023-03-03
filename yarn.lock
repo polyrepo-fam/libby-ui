@@ -1449,11 +1449,6 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@jonbri/token@*":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@jonbri/token/-/token-1.1.1.tgz#d1c5dce5f4ed63005ce0fc3b7714d854c258a993"
-  integrity sha512-ImnBVehjLQPXic8J0ZGXIFSLnN/G6TXod+BtbbHp9BwhXFePsi1611zjLUgsDm+waYJwO27nIvip0Mx+stFkig==
-
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz#e5d2e450306a9491e3bd77e323e38d7aff315996"
@@ -1897,6 +1892,11 @@
   dependencies:
     "@pnpm/network.ca-file" "^1.0.1"
     config-chain "^1.1.11"
+
+"@polyrepo-fam/token@*":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@polyrepo-fam/token/-/token-1.0.0.tgz#44fb93791f3d61d11c44157946bcbc9cd7d1e0fd"
+  integrity sha512-fRpdBMdMdnee8khIetNsEqW7bk6GVR5en0e024MSpZSQ93+31IYf7JfWP++dlMITdwnpiIerBlq8fHn9IZyTlg==
 
 "@rollup/plugin-commonjs@^24.0.1":
   version "24.0.1"
